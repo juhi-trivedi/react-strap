@@ -1,0 +1,26 @@
+#about {
+    background: #fff;
+    padding: 90px 0;
+}
+#about img{
+    max-width: 90%;
+}
+
+.aboutContent h3{
+    margin-top: 0;
+    margin-bottom: 15px;
+    font-size: 34px;
+    color: #1ccacd;
+}
+
+.aboutContent p{
+    color: #999;
+}
+
+.aboutContent h4{
+    margin-top: 30px;
+    margin-bottom: 15px;
+    font-size: 22px;
+    letter-spacing: 1px;
+    color: #343a40;
+}

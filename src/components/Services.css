@@ -1,0 +1,46 @@
+#services {
+    background: #fff;
+    text-align: center;
+    padding: 90px 0;
+}
+
+.skill .service-fonts {
+    font-size: 34px;
+    color: #fff;
+    width: 75px;
+    height: 75px;
+    background: #1ccacd;
+    border-radius: 50%;
+    line-height: 2.2;
+}
+
+.skill h4 {
+    font-size: 25px;
+    letter-spacing: 1px;
+    font-weight: 600;
+    margin: 25px 0 15px;
+}
+
+.skill p {
+    color: #999;
+}
+
+.skill-list {
+    margin: 15px 0;
+    padding: 2.5em 3em;
+}
+
+.skill .col-md-4:nth-child(odd) .skill-list {
+    border: 1px solid transparent;
+    -webkit-transition: box-shadow 0.3s ease-in-out;
+    -moz-transition: box-shadow 0.3s ease-in-out;
+    -ms-transition: box-shadow 0.3s ease-in-out;
+    -o-transition: box-shadow 0.3s ease-in-out;
+    transition: box-shadow 0.3s ease-in-out;
+    background: transparent;
+    background: #fff;
+    -webkit-box-shadow: 0px 0px 18.69px 2.31px rgba(204, 204, 223, 0.5);
+    -moz-box-shadow: 0px 0px 18.69px 2.31px rgba(204, 204, 223, 0.5);
+    box-shadow: 0px 0px 18.69px 2.31px rgba(204, 204, 223, 0.5);
+    border-radius: 15px;
+}

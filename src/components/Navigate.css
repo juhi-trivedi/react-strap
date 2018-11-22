@@ -1,0 +1,28 @@
+.navbar-default {
+    background: transparent;
+    border: 0;
+    min-height: auto;
+    padding-top: 15px;
+}
+.navbar-default .navbar-brand {
+    color: #fff;
+    font-weight: bold;
+    height: auto;
+    padding: 15px 0;
+    font-size: 25px;
+}
+
+.navbar-default .navbar-nav>li>a {
+    color: #fff;
+    padding: 15px 25px;
+    color: #fff;
+    font-size: 14px;
+    letter-spacing: 1px;
+    font-weight: 500;
+    text-transform: uppercase;
+    transition: all 0.3s ease-in-out;
+}
+
+.navbar-default .navbar-nav>li:last-of-type>a {
+    padding-right: 15px;
+}

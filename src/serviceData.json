@@ -1,0 +1,38 @@
+[ 
+    {
+        "id": 1,
+        "icon": "gavel",
+        "title": "Hello World",
+        "content": "Try Reactjs is awesome. Can't wait to learn more as soon as possible."
+    },
+    {
+        "id": 2,
+        "icon": "paint-brush",
+        "title": "Setup React",
+        "content": "Setting up react is easy. Learn more about it! It's very interesting."
+    },
+    {
+        "id": 3,
+        "icon": "magic",
+        "title": "Heading Here",
+        "content": "Lorem ipsum dolor sit amet consectetur elit,Adipisicing elit tempor."
+    },
+    {
+        "id": 4,
+        "icon": "wrench",
+        "title": "React",
+        "content": "Setting up react is easy. It's very interesting. Learn more about it!"
+    },
+    {
+        "id": 5,
+        "icon": "cogs",
+        "title": "Javascript",
+        "content": "Lorem ipsum dolor sit It's very interesting. amet consectetur elit."
+    },
+    {
+        "id": 6,
+        "icon": "line-chart",
+        "title": "HTML",
+        "content": "Setting up react is easy &  It's very interesting.. Learn more about it!"
+    }
+]
